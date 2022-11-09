@@ -53,4 +53,6 @@ This README will guide you to host your resume on GitHub Pages by following the 
 ##### Author : Abdelrahman Aljamal 
 
 ## FAQs
-
+  * Why is my resume not showing up?
+    * it takes a while to show up.
+     
