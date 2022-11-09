@@ -27,7 +27,7 @@ This README will guide you to host your resume on GitHub Pages by following the 
    ![newFile](https://github.com/AbdelrahmanAljamal/AbdelrahmanAljamal.github.io/blob/main/newFile.gif)
 4. Choose a Theame for your resume
 
-   * Visit this link and choose your preferable theme. 
+   * Visit this [link](https://pages.github.com/themes/) and choose your preferable theme. 
    * Click on your preferable theme and search for _config.yml file. 
    * Open the _config.yml file and copy the line of ``` theme: jekyll-theme-_nameOfTheTheme_ ```   
    
