@@ -55,4 +55,5 @@ This README will guide you to host your resume on GitHub Pages by following the 
 ## FAQs
   * Why is my resume not showing up?
     * it takes a while to show up.
-     
+  * Can I add a description to my resume ?
+    * you can do that by adding ``` description: _yourDescription_ ``` to  _config.yml.
